@@ -4,7 +4,7 @@ AWS Lambda function to backup Contentstack audit logs to an AWS S3 bucket - Usin
 ***Not officially supported***
 
 ## Step by Step
----
+
 **1. Create a Lambda function**
 * Upload lambda.zip to AWS Lambda - or create your own zip file and upload.
     * Upload a zip file with the lambda_function.py file and dependencies.
